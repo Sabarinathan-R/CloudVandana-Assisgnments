@@ -42,6 +42,7 @@ This repository contains assignments for Java, JavaScript, and HTML. Below are t
 **B. Customer Survey Form**
 
 - Description: Create a survey form with fields; First Name, Last Name, Date of Birth, Country (dropdown), Gender (checkbox), Profession, email, and mobile number. All input fields are necessary to submit the form. Create two buttons - Submit and Reset. Reset will reset the form while clicking on submit. First, it will check all the fields for necessary validations, and then a popup will appear displaying all the selected values with labels in front of them. On closing the popup, the form should reset all the values.
+- Code Files: [survey-form.html](HTML/CustomerSurveyForm/survey-form.html), [survey-form.css](HTML/CustomerSurveyForm/survey-form.css), [survey-form.js](HTML/CustomerSurveyForm/survey-form.js)
+
   
-- Code Files: [survey-form.html](HTML/Customer SurveyForm/survey-form.html), [survey-form.css](HTML/Customer SurveyForm/survey-form.css), [survey-form.js](HTML/Customer SurveyForm/survey-form.js)
 ---
