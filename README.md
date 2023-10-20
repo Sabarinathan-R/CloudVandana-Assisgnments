@@ -17,7 +17,7 @@ This repository contains assignments for Java, JavaScript, and HTML. Below are t
 **C. Check for Pangram**
 
 - Description: Check if the input is a pangram or not (a sentence that contains all the alphabet from a-z).
-- Code File: [PangramCheck.java](https://github.com/Sabarinathan-R/CloudVandana-Assisgnments/java/PangramCheck.java)
+- Code File: [PangramCheck.java](Java/PangramCheck.java)
 
 ## JavaScript Assignment
 
@@ -43,5 +43,5 @@ This repository contains assignments for Java, JavaScript, and HTML. Below are t
 
 - Description: Create a survey form with fields; First Name, Last Name, Date of Birth, Country (dropdown), Gender (checkbox), Profession, email, and mobile number. All input fields are necessary to submit the form. Create two buttons - Submit and Reset. Reset will reset the form while clicking on submit. First, it will check all the fields for necessary validations, and then a popup will appear displaying all the selected values with labels in front of them. On closing the popup, the form should reset all the values.
   
-- Code Files: [survey-form.html](https://github.com/Sabarinathan-R/CloudVandana-Assisgnments/HTML/Customer SurveyForm/survey-form.html), [survey-form.css](https://github.com/Sabarinathan-R/CloudVandana-Assisgnments/HTML/Customer SurveyForm/survey-form.css), [survey-form.js](https://github.com/Sabarinathan-R/CloudVandana-Assisgnments/HTML/Customer SurveyForm/survey-form.js)
+- Code Files: [survey-form.html](https://github.com/Sabarinathan-R/CloudVandana-Assisgnments/HTML/CustomerSurveyForm/survey-form.html), [survey-form.css](https://github.com/Sabarinathan-R/CloudVandana-Assisgnments/HTML/CustomerSurveyForm/survey-form.css), [survey-form.js](https://github.com/Sabarinathan-R/CloudVandana-Assisgnments/HTML/CustomerSurveyForm/survey-form.js)
 ---
