@@ -1,0 +1,109 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #9fcc65;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    max-width: 400px;
+    text-align: left;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #007BFF;
+    
+}
+
+.form-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+label {
+    flex: 1;
+    font-weight: bold;
+}
+
+select, input[type="text"], input[type="email"], input[type="tel"], input[type="date"] {
+    flex: 2;
+    padding: 10px;
+    border: 2px solid #007BFF;
+    border-radius: 5px;
+}
+
+.checkbox-group {
+    flex: 2;
+    display: flex;
+    align-items: center;
+}
+
+.checkbox-group input {
+    margin-right: 5px;
+}
+
+button {
+    background: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 5px; 
+}
+
+#submit-button {
+    align-items: center;
+    margin-left: 110px;
+}
+#reset-button {
+    margin-left: 20px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#popup {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    text-align: left;
+}
+
+#submitted-values {
+    list-style-type: none;
+    padding: 0;
+}
+
+#close-popup {
+    background: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#close-popup:hover {
+    background: #0056b3;
+}
